@@ -28,7 +28,7 @@ import java.time.LocalDate;
 import java.util.Collection;
 
 /**
- * @author Juergen Hoeller hogehoge
+ * @author Juergen Hoeller hogehoge2
  * @author Ken Krebs
  * @author Arjen Poutsma
  */
